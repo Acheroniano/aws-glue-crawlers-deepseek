@@ -29,7 +29,7 @@ Traning DATA in AWS
 
 ## Files
 
-### **customer.csv : **
+### **customer.csv :**
 ###### - **Description:** Arquivo com o 100 nomes - ID, Nome, País, Cidade, Telefone e Salário.
 
 ### **DeepSeek R1 - DeepThink.md**
