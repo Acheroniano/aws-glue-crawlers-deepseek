@@ -1,5 +1,5 @@
-# banksys-diome
-Entrega de Projeto Sistema Bancário da Dio.me ( Exercício do Bootcamp Suzano Python Developer)
+# Projeto AWS - Glue Crawler - S3 - Athena - DeepSeek R1
+Traning DATA in AWS
 
 <div>
    <a href="https://www.paypal.com/donate/?business=C5ZXDE6A7M28E&no_recurring=0&item_name=Donation+for+Owner+of+this+PayPal+Account&currency_code=BRL" target="_blank">
