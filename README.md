@@ -39,8 +39,11 @@ Traning DATA in AWS
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with "thinking" proccess of the DeepSeekR1 AI
 
 ### **PromptedDeepSeekR1.md**
-###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
-###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** -Prompt used to generate the CUSTOMER.CSV file content
+###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
+###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - Prompt used to generate the CUSTOMER.CSV file content
 
+### **thisisthelab.md**
+###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Instruções Passo a Passo para fazer o lab
+###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - step by step instructions to do the lab
 
 
