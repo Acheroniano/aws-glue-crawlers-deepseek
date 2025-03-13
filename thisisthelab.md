@@ -73,4 +73,14 @@
 ![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
 ![S3 Buckets Names](./images/4a-S3BucketsCriadosX.jpg)
 
-# 2.2 
+# 2.2 - Upload [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+##### ** Clique no botão upload para escolher o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+##### ** Click on upload button to choose the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
+
+![S3 Upload customer.csv](./images/5a-S3RawDataUpload.jpg)
+
+
