@@ -5,7 +5,7 @@ Traning DATA in AWS
    <a href="https://www.paypal.com/donate/?business=C5ZXDE6A7M28E&no_recurring=0&item_name=Donation+for+Owner+of+this+PayPal+Account&currency_code=BRL" target="_blank">
        <img src="https://www.paypalobjects.com/paypal-ui/logos/svg/paypal-color.svg" alt="PayPal Donation" width="100" height="50">
    </a><br>
-   ###### Doações:<br>Pix: altaperformancenubank@gmail.com<br>
+   @@@ Doações:<br>Pix: altaperformancenubank@gmail.com<br>
 </div>
 <br>
 
@@ -30,7 +30,8 @@ Traning DATA in AWS
 ## Files
 
 ### **customer.csv :**
-###### - **Description:** Arquivo com o 100 nomes - ID, Nome, País, Cidade, Telefone e Salário.
+
+###### - **Description:** Arquivo com os dados dos nomes - ID, Nome, País, Cidade, Telefone e Salário.
 
 ### **DeepSeek R1 - DeepThink.md**
 ###### - **Description:** Arquivo com o processo de "pensamento" da AI do DeepSeek
@@ -39,8 +40,8 @@ Traning DATA in AWS
 ###### - **Description:** Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
 
 
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil")
+
+![United States](https://github.com/Acheroniano/flag-icon/master/png/16/country-4x3/us.png "United States")
 
 
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
