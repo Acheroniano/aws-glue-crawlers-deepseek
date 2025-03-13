@@ -71,5 +71,6 @@
 
 ![S3 AWS Region](./images/2a-S3Region.jpg)
 ![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
-![S3 Buckets Names](./images/4a-S3BucketsCriados.jpg)
+![S3 Buckets Names](./images/4a-S3BucketsCriadosX.jpg)
 
+# 2.2 
