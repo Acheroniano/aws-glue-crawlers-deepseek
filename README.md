@@ -30,8 +30,8 @@ Traning DATA in AWS
 ## Files
 
 ### **customer.csv :**
-###### -![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com os dados dos nomes - ID, Nome, País, Cidade, Telefone e Salário. Vamos fazer upload no S3.
-###### -![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with data - ID, Names, Countries, Cities, Phones and Salaries. Upload it to a S3 Bucket.
+###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com os dados dos nomes - ID, Nome, País, Cidade, Telefone e Salário. Vamos fazer upload no S3.
+###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with data - ID, Names, Countries, Cities, Phones and Salaries. Upload it to a S3 Bucket.
 
 
 ### **DeepSeek R1 - DeepThink.md**
@@ -40,10 +40,7 @@ Traning DATA in AWS
 
 ### **PromptedDeepSeekR1.md**
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
-###### - [United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** -Prompt used to generate the CUSTOMER.CSV file content
+###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** -Prompt used to generate the CUSTOMER.CSV file content
 
-![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil")
-
-![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States")
 
 
