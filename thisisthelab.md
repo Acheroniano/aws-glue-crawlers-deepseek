@@ -29,7 +29,7 @@
 ###### ** Gerar o conteúdo do arquivo *customer.csv:* ** 
 ###### - Abra o link *https://chat.deepseek.com/*
 ###### - Use o prompt providenciado no arquivo *PromptedDeepSeekR1.md* no DeepSeekR1 e espere ele gerar a lista de dados...
-###### - Você pode colar no DeepSeekR1 o conteúdo do jeito que você copiar do arquivo [![PromptedDeepSeekR1.md](https://img.shields.io/badge/file-39E09B?style=social&logo=PromptedDeepSeekR1.md&logoColor=39E09B)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md) a AI vai tratar de acordo.
+###### - Você pode colar no DeepSeekR1 o conteúdo do jeito que você copiar do arquivo [![PromptedDeepSeekR1.md](https://img.shields.io/badge/PromptedDeepSeekR1.md-39E09B?style=social&logo=file&logoColor=39E09B)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md) a AI vai tratar de acordo.
 ###### - Copie a lista de dados que o DeepSeekR1 gerar e cole em um editor de texto, salve como *customer.csv*, você ira usar o arquivo em breve.
 
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
