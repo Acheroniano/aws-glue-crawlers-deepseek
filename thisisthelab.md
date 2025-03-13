@@ -56,7 +56,7 @@
 ###### Escolha qualquer uma, eu tenho buckets em Ohio e North Virginia 
 ###### e depois de escolher a região, clique no botão *Create Bucket*
 ###### crie dois buckets:
-###### - um para receber o arquivo [![CSV badge](https://img.shields.io/badge/customer.csv-%23000000?logo=csv&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
+###### - um para receber o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
 ###### - o segundo bucket irá receber arquivos gerados pelo AWS ATHENA.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
