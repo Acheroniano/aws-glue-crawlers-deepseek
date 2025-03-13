@@ -39,3 +39,13 @@
 ###### - You can paste the prompt without modifications in DeepSeekR1, the AI will manage it.
 ###### - Copy the list of data in a text editor and save it as *customer.csv*, you will use it soon.
 
+# 2 - Amazon S3 
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+##### ** Abra o Amazon S3 no console da Amazon **
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+##### ** Open the Amazon S3 console **
+
+![Amazon S3](images/1a-S3inConsole.jpg)
+
