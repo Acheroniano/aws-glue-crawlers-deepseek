@@ -58,12 +58,18 @@
 ###### crie dois buckets:
 ###### - um para receber o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
 ###### - o segundo bucket irá receber arquivos gerados pelo AWS ATHENA.
+###### - usado os nomes : *bucket-for-csv-rawdata-2025-03* e *bucket-for-athena-queries-2025-03*
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Choose a AWS Region to create two buckets **
 ###### I have a couple of buckets in North Virginia and Ohio.
 ###### after choosing the region, click in the *Create Bucket* button.
+###### create two buckets:
+###### - one to receive the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
+###### - other will receive files created by AWS ATHENA.
+###### - used the names : *bucket-for-csv-rawdata-2025-03* and *bucket-for-athena-queries-2025-03*
 
 ![S3 AWS Region](./images/2a-S3Region.jpg)
 ![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
+![S3 Buckets Names](./images/4a-S3BucketsCriados.jpg)
 
