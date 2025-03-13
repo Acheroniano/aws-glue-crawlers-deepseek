@@ -53,9 +53,13 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Escolha a Região na AWS para criar dois buckets **
+###### Você pode escolher qualquer uma eu tenho buckets em Ohio e North Virginia 
+###### e depois de escolher a região, você pode clicar no botão *Create Bucket*
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Choose a AWS Region to create two buckets **
+###### I have a couple of buckets in North Virginia and Ohio.
+###### after you choose the region, click in the *Create Bucket* button.
 
 ![S3 AWS Region](./images/2a-S3Region.jpg)
-
+![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
