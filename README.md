@@ -38,3 +38,9 @@ Traning DATA in AWS
 ### **PromptedDeepSeekR1.md**
 ###### - **Description:** Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
 
+
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil")
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
+
+
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
