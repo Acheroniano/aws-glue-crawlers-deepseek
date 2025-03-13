@@ -77,10 +77,12 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Clique no botão upload para escolher o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
+##### - depois que escolher o arquivo, algumas informações relevantes sobre ele aparecem na tela.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Click on upload button to choose the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
+##### - after choosing the file, some relevant information appears on the screen.
 
 ![S3 Upload customer.csv](./images/5a-S3RawDataUpload.jpg)
-
+![S3 Upload customer.csv info](./images/6a-S3CustomerCSV.jpg)
 
