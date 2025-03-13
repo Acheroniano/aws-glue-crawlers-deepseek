@@ -24,6 +24,8 @@
 </div>
 
 # 1 - DeepSeekR1
+![Markdown badge](https://img.shields.io/badge/markdown-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)
+
 
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ###### ** Gerar o conteúdo do arquivo *customer.csv:* ** 
