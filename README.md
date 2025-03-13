@@ -42,6 +42,6 @@ Traning DATA in AWS
 
 ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil")
 
-![United States](https://github.com/Acheroniano/flag-icon/master/png/16/country-4x3/us.png "United States")
+![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States")
 
 
