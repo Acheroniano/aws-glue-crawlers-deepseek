@@ -47,5 +47,5 @@
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Open the Amazon S3 console **
 
-![Amazon S3](images/1a-S3inConsole.jpg)
+![S3 Console](./images/1a-S3inConsoleA.jpg)
 
