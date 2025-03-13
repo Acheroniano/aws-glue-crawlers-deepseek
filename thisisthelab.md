@@ -49,3 +49,13 @@
 
 ![S3 Console](./images/1a-S3inConsoleA.jpg)
 
+# 2.1 - Amazon S3
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+##### ** Escolha a Região na AWS para criar dois buckets **
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+##### ** Choose a AWS Region to create two buckets **
+
+![S3 AWS Region](./images/2a-S3Region.jpg)
+
