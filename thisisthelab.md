@@ -26,14 +26,14 @@
 # 1 - DeepSeekR1
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
-###### ** Gerar o conteúdo do arquivo *customer.csv:* ** 
+##### - ** Gerar o conteúdo do arquivo *customer.csv:* ** 
 ###### - Abra o link *https://chat.deepseek.com/*
 ###### - Use o prompt providenciado no arquivo *PromptedDeepSeekR1.md* no DeepSeekR1 e espere ele gerar a lista de dados...
 ###### - Você pode colar no DeepSeekR1 o conteúdo do jeito que você copiar do arquivo [![Markdown badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md) a AI vai tratar de acordo.
 ###### - Copie a lista de dados que o DeepSeekR1 gerar e cole em um editor de texto, salve como *customer.csv*, você ira usar o arquivo em breve.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
-###### ** Generate the data for the file *customer.csv:* ** 
+##### - ** Generate the data for the file *customer.csv:* ** 
 ###### - Open the url *https://chat.deepseek.com/*
 ###### - Look at the prompt provided in the file [![Markdown badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md), copy and paste it in DeepSeekR1, wait it generate the list of data...
 ###### - You can paste the prompt without modifications in DeepSeekR1, the AI will manage it.
