@@ -29,15 +29,15 @@
 ##### ** Gerar o conteúdo do arquivo *customer.csv:* ** 
 ###### - Abra o link *https://chat.deepseek.com/*
 ###### - Use o prompt providenciado no arquivo *PromptedDeepSeekR1.md* no DeepSeekR1 e espere ele gerar a lista de dados...
-###### - Você pode colar no DeepSeekR1 o conteúdo do jeito que você copiar do arquivo [![Markdown badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md) a AI vai tratar de acordo.
-###### - Copie a lista de dados que o DeepSeekR1 gerar e cole em um editor de texto, salve como *customer.csv*, você ira usar o arquivo em breve.
+###### - Cole no DeepSeekR1 o conteúdo do jeito que você copiar do arquivo [![Markdown badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md) a AI vai tratar de acordo.
+###### - Copie a lista de dados que o DeepSeekR1 gerar e cole em um editor de texto, salve como *customer.csv*, o arquivo será usado em breve.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Generate the data for the file *customer.csv:* ** 
 ###### - Open the url *https://chat.deepseek.com/*
 ###### - Look at the prompt provided in the file [![Markdown badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md), copy and paste it in DeepSeekR1, wait it generate the list of data...
-###### - You can paste the prompt without modifications in DeepSeekR1, the AI will manage it.
-###### - Copy the list of data in a text editor and save it as *customer.csv*, you will use it soon.
+###### - Paste the prompt without modifications in DeepSeekR1, the AI will manage it.
+###### - Copy the list of data in a text editor and save it as *customer.csv*, it will be used later.
 
 # 2 - Amazon S3 
 
@@ -53,13 +53,17 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Escolha a Região na AWS para criar dois buckets **
-###### Você pode escolher qualquer uma eu tenho buckets em Ohio e North Virginia 
-###### e depois de escolher a região, você pode clicar no botão *Create Bucket*
+###### Escolha qualquer uma, eu tenho buckets em Ohio e North Virginia 
+###### e depois de escolher a região, clique no botão *Create Bucket*
+###### crie dois buckets:
+###### - um para receber o arquivo [![CSV badge](https://img.shields.io/badge/customer.csv-%23000000?logo=csv&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
+###### - o segundo bucket irá receber arquivos gerados pelo AWS ATHENA.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Choose a AWS Region to create two buckets **
 ###### I have a couple of buckets in North Virginia and Ohio.
-###### after you choose the region, click in the *Create Bucket* button.
+###### after choosing the region, click in the *Create Bucket* button.
 
 ![S3 AWS Region](./images/2a-S3Region.jpg)
 ![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
+
