@@ -227,3 +227,16 @@
 
 ![AWS Athena Output query bucket](./images/28a-AWSAthenaOutputQueryResultLocation.jpg)
 
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Escolha o bucket *bucket-for-athena-queries-2025-03* como destino dos SQL Queries realizados.
+###### Confira a escolha e depois clique em *Editor*.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Choose the bucket *bucket-for-athena-queries-2025-03* as the destination of the SQL Queries performed.
+###### Check the choice and then click on *Editor*.
+
+![AWS Athena choosing S3 bucket destination for Queries](./images/29a-AWSAthenaChoosingTheOtherBucket.jpg)
+![AWS Athena Editor](./images/30a-AWSAthenaChoosingTheOtherBucket.jpg)
+![AWS Athena bucket choosed](./images/31a-AWSAthenaChoosingTheOtherBucket.jpg)
+
+
