@@ -204,12 +204,26 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ###### No menu da esquerda clique em Database e Tables para visualizar informações do banco de dados criado.
+###### Clique em *Table data* para invocar o AWS ATHENA e rodar declarações SQL no banco de dados criado.
+###### Um alerta será emitido sobre cobranças realizadas pelo AWS ATHENA.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ###### On the left menu click on Database and Tables to view information about the database
+###### Click on *Table data* to invoke AWS ATHENA and run SQL statements in the database.
+###### An alert will be emitted about AWS ATHENA charges.
 
 ![AWS Glue Database Tables](./images/26a-AWSGlueCrawlerDatabaseTables.jpg)
 ![AWS Glue Database View Data](./images/27a-AWSGlueCrawlerDatabaseTablesViewData.jpg)
 
+# 4 - AWS Athena
 
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### o AWS ATHENA irá alertar que precisa de um bucket de saída para salvar os resultados dos SQL Queries realizados.
+###### Clique no botão *Edit settings*
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### AWS ATHENA will alert that it needs an output bucket to save the results of the SQL Queries performed.
+###### Click on the *Edit settings* button.
+
+![AWS Athena Output query bucket](./images/28a-AWSAthenaOutputQueryResultLocation.jpg)
 
