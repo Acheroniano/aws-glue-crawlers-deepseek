@@ -189,5 +189,16 @@
 
 ![AWS Glue Create Crawler](./images/23a-AWSGlueCrawlerFinalScreen.jpg)
 
+# 3.6 - AWS Glue - Run Crawler
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Clique no botão *RUN CRAWLER* para iniciar a execução do Crawler.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Click on the *RUN CRAWLER* button to start the Crawler execution.
+
+![AWS Run Crawler](./images/24a-AWSGlueCrawlerFinalScreen2.jpg)
+![AWS Run Crawler Success](./images/25a-AWSGlueCrawlerRUNSuccess.jpg)
+
 
 
