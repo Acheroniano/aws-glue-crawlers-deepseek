@@ -109,8 +109,37 @@
 ###### Clique em CREATE CRAWLER
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
-###### Click in CREATE CRAWLER
+###### Click CREATE CRAWLER
 
 ![AWS Glue Create Crawler](./images/11a-AWSGlueCrawlerScreen.jpg)
 
+# 3.2 - AWS Glue - Crawler Properties
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Preencha as informações para parametrizar o Crawler
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Fill in the information to parameterize the Crawler
+
+![AWS Glue Crawler Properties](./images/12a-AWSGlueCrawlerSetProperties.jpg)
+
+# 3.3 - AWS Glue - Crawler DATA SOURCE Configuration
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Clique no botão *add a Data Source* para poder indicar a fonte dos dados.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Click on the *add a Data Source* button to indicate the data source.
+
+![AWS Glue Crawler Data Source](./images/13a-AWSGlueCrawlerDataSource.jpg)
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Faça a parametrização do *Data Source* com o bucket *bucket-for-csv-rawdata-2025-03*
+###### Clique no botão *ADD an S3 Data Source*. 
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Parameterize the *Data Source* with the bucket *bucket-for-csv-rawdata-2025-03*
+###### Click on the *ADD an S3 Data Source* button. 
+
+![AWS Glue Crawler Parametrization](./images/14a-AWSGlueCrawlerAddDataSource.jpg)
 
