@@ -200,5 +200,16 @@
 ![AWS Run Crawler](./images/24a-AWSGlueCrawlerFinalScreen2.jpg)
 ![AWS Run Crawler Success](./images/25a-AWSGlueCrawlerRUNSuccess.jpg)
 
+# 3.7 - AWS Glue - Database Tables
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### No menu da esquerda clique em Database e Tables para visualizar informações do banco de dados criado.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### On the left menu click on Database and Tables to view information about the database
+
+![AWS Glue Database Tables](./images/26a-AWSGlueCrawlerDatabaseTables.jpg)
+![AWS Glue Database View Data](./images/27a-AWSGlueCrawlerDatabaseTablesViewData.jpg)
+
 
 
