@@ -144,4 +144,13 @@
 ![AWS Glue Crawler Parametrization](./images/14a-AWSGlueCrawlerAddDataSource.jpg)
 ![AWS S3 Bucket as a Data Source](./images/15a-AWSGlueCrawlerDataSource.jpg)
 
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Confira a parametrização do *Data Source* com o bucket *bucket-for-csv-rawdata-2025-03*
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Check *Data Source* parametrization with the bucket *bucket-for-csv-rawdata-2025-03*
+
+![AWS Glue Crawler with a S3 bucket as Data Source](./images/16a-AWSGlueCrawlerDataSource.jpg)
+
+
 
