@@ -34,15 +34,15 @@ Traning DATA in AWS
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com os dados dos nomes - ID, Nome, País, Cidade, Telefone e Salário. Vamos fazer upload no S3.
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with data - ID, Names, Countries, Cities, Phones and Salaries. Upload it to a S3 Bucket.
 
-### **DeepSeek R1 - DeepThink.md :** [![Files badge](https://img.shields.io/badge/DeepSeek%20R1-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/DeepSeek%20R1%20-%20DeepThink.md) 
+### **DeepSeek R1 - DeepThink.md :** [![Files badge](https://img.shields.io/badge/DeepSeek%20R1%20-%20DeepThink.md-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/DeepSeek%20R1%20-%20DeepThink.md) 
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com o processo de "pensamento" da AI do DeepSeekR1
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with "thinking" proccess of the DeepSeekR1 AI
 
-### **PromptedDeepSeekR1.md**
+### **PromptedDeepSeekR1.md** [![Files badge](https://img.shields.io/badge/PromptedDeepSeekR1.md-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/PromptedDeepSeekR1.md)
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Prompt usado para gerar o conteúdo do arquivo CUSTOMER.CSV
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - Prompt used to generate the CUSTOMER.CSV file content
 
-### **thisisthelab.md**
+### **thisisthelab.md** [![Files badge](https://img.shields.io/badge/thisisthelab.md-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/thisisthelab.md)
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Instruções Passo a Passo para fazer o lab
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - step by step instructions to do the lab
 
