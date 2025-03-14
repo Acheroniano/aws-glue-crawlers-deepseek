@@ -154,10 +154,14 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ###### Nas configurações de segurança crie uma IAM ROLE para AWS GLUE.
+###### Confira as configurações realizadas.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ###### In security settings create a IAM ROLE for AWS GLUE.
+###### Check the settings.
 
 ![AWS Glue Crawler IAM ROLE](./images/17a-AWSGlueCrawlerIAMRole.jpg)
 ![AWS Glue Crawler IAM ROLE Name](./images/18a-AWSGlueCrawlerIAMRoleName.jpg)
+![AWS Glue Crawler security settings](./images/19a-AWSGlueCrawlerRoleCreated.jpg)
+
 
