@@ -237,6 +237,33 @@
 
 ![AWS Athena choosing S3 bucket destination for Queries](./images/29a-AWSAthenaChoosingTheOtherBucket.jpg)
 ![AWS Athena Editor](./images/30a-AWSAthenaChoosingTheOtherBucket.jpg)
+
+# 5 - AWS Athena - SQL Queries
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Em *Editor*, tem o local para editar as declarações SQL, o botão Run e o (+) para criar novas declarações SQL.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### in *Editor*, has a place to edite the SQL statements, the *Run* button and the (+) to create new SQL statements.
+
 ![AWS Athena bucket choosed](./images/31a-AWSAthenaChoosingTheOtherBucket.jpg)
 
+### 5.1 - SQL Queries Fun
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Agora rode as SQL Queries, modifique elas e execute novamente.
+###### Mantenha *"AwsDataCatalog"."customercsv-imperialfiles"."bucket_for_csv_rawdata_2025_03"* na sua declaração e execute.
+###### Peça auxílio a alguma AI para gerar SQL Queries mais complexas, se for o caso.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Now run the SQL Queries, modify them and execute again.
+###### Keep *"AwsDataCatalog"."customercsv-imperialfiles"."bucket_for_csv_rawdata_2025_03"* in your declaration and execute.
+###### Get help from a AI to generate more complex SQL Queries, if necessary.
+
+![AWS SQL Queries](./images/32a-AWSAthenaChoosingTheOtherBucket.jpg)
+![AWS SQL Queries](./images/33a-AWSAthenaChoosingTheOtherBucket.jpg)
+![AWS SQL Queries](./images/34a-AWSAthenaChoosingTheOtherBucket.jpg)
+![AWS SQL Queries](./images/35a-AWSAthenaChoosingTheOtherBucket.jpg)
+
+# The END!
 
