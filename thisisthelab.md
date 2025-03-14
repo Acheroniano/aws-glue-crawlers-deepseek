@@ -49,7 +49,7 @@
 
 ![S3 Console](./images/1a-S3inConsoleA.jpg)
 
-# 2.1 - Amazon S3
+# 2.1 - Amazon S3 - Create Buckets 
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Escolha a Região na AWS para criar dois buckets **
@@ -73,17 +73,30 @@
 ![S3 Create Bucket](./images/3a-S3CreateABucket.jpg)
 ![S3 Buckets Names](./images/4a-S3BucketsCriadosX.jpg)
 
-# 2.2 - Upload [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
+# 2.2 - Amazon S3 Upload [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Clique no botão upload para escolher o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
 ##### - depois que escolher o arquivo e também após fazer o upload, algumas informações relevantes sobre ele aparecem na tela.
+##### - abra o bucket *bucket-for-csv-rawdata-2025-03* e confira o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Click on upload button to choose the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
 ##### - after choosing the file and also after uploading, some relevant information appears on the screen.
+##### - open the bucket *bucket-for-csv-rawdata-2025-03* and check the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket.
 
 ![S3 Upload customer.csv](./images/5a-S3RawDataUpload.jpg)
 ![S3 Upload customer.csv info](./images/6a-S3CustomerCSV.jpg)
 ![S3 After Upload customer.csv info](./images/7a-S3CustomerCSVSuccess.jpg)
+![S3 customer.csv in the bucket](./images/8a-S3CustomerCSVSuccess2.jpg)
+
+# 3 - AWS Glue 
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Abra o AWS GLUE
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Open the AWS GLUE
+
+![AWS Glue](./images/9a-AWSGlueCalling.jpg)
 
