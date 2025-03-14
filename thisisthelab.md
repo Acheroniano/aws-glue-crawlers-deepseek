@@ -167,11 +167,17 @@
 # 3.4 - AWS Glue - Crawler Database Configuration
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
-###### Configuração do *banco de dados* baseado no arquivo ![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket *bucket-for-csv-rawdata-2025-03*.
+###### Configuração do *banco de dados* baseado no arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket *bucket-for-csv-rawdata-2025-03*.
+###### Confira as informações do banco de dados criado.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
-###### Database configuration based on the file [Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket *bucket-for-csv-rawdata-2025-03*. 
+###### Database configuration based on the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket *bucket-for-csv-rawdata-2025-03*. 
+###### Check the information about the database creation.
 
 ![AWS Glue Crawler Database](./images/20a-AWSGlueCrawlerDataBaseCreation.jpg)
-![AWS Glue Crwaler Database 2](./images/20a-AWSGlueCrawlerDataBaseCreation2.jpg)
+![AWS Glue Crawler Database 2](./images/20a-AWSGlueCrawlerDataBaseCreation2.jpg)
+![AWS Glue Crawler Database Created](./images/21a-AWSGlueCrawlerDataBaseCreated.jpg)
+![AWS Glue Crawler Database Target](./images/22a-AWSGlueCrawlerDataBaseTargetChoosed.jpg)
+
+
 
