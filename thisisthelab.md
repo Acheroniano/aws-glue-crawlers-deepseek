@@ -179,5 +179,15 @@
 ![AWS Glue Crawler Database Created](./images/21a-AWSGlueCrawlerDataBaseCreated.jpg)
 ![AWS Glue Crawler Database Target](./images/22a-AWSGlueCrawlerDataBaseTargetChoosed.jpg)
 
+# 3.5 - AWS Glue - Create Crawler
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Finalmente revise as configurações e clique em *CREATE CRAWLER*.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Finally review the settings and click on *CREATE CRAWLER*.
+
+![AWS Glue Create Crawler](./images/23a-AWSGlueCrawlerFinalScreen.jpg)
+
 
 
