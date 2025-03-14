@@ -77,13 +77,13 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ##### ** Clique no botão upload para escolher o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
-##### - depois que escolher o arquivo e também após fazer o upload, algumas informações relevantes sobre ele aparecem na tela.
-##### - abra o bucket *bucket-for-csv-rawdata-2025-03* e confira o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket.
+###### - depois que escolher o arquivo e também após fazer o upload, algumas informações relevantes sobre ele aparecem na tela.
+###### - abra o bucket *bucket-for-csv-rawdata-2025-03* e confira o arquivo [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket.
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ##### ** Click on upload button to choose the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) **
-##### - after choosing the file and also after uploading, some relevant information appears on the screen.
-##### - open the bucket *bucket-for-csv-rawdata-2025-03* and check the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket.
+###### - after choosing the file and also after uploading, some relevant information appears on the screen.
+###### - open the bucket *bucket-for-csv-rawdata-2025-03* and check the file [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket.
 
 ![S3 Upload customer.csv](./images/5a-S3RawDataUpload.jpg)
 ![S3 Upload customer.csv info](./images/6a-S3CustomerCSV.jpg)
@@ -102,5 +102,15 @@
 
 ![AWS Glue](./images/9a-AWSGlueCalling.jpg)
 ![AWS Glue Crawlers](./images/10a-AWSGlueCrawlerCalling.jpg)
+
+# 3.1 - AWS Glue - Create Crawler
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Clique em CREATE CRAWLER
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Click in CREATE CRAWLER
+
+![AWS Glue Create Crawler](./images/11a-AWSGlueCrawlerScreen.jpg)
 
 
