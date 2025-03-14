@@ -164,4 +164,14 @@
 ![AWS Glue Crawler IAM ROLE Name](./images/18a-AWSGlueCrawlerIAMRoleName.jpg)
 ![AWS Glue Crawler security settings](./images/19a-AWSGlueCrawlerRoleCreated.jpg)
 
+# 3.4 - AWS Glue - Crawler Database Configuration
+
+###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
+###### Configuração do *banco de dados* baseado no arquivo ![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) salvo no bucket *bucket-for-csv-rawdata-2025-03*.
+
+###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
+###### Database configuration based on the file [Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv) saved in the bucket *bucket-for-csv-rawdata-2025-03*. 
+
+![AWS Glue Crawler Database](./images/20a-AWSGlueCrawlerDataBaseCreation.jpg)
+![AWS Glue Crwaler Database 2](./images/20a-AWSGlueCrawlerDataBaseCreation2.jpg)
 
