@@ -94,9 +94,13 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ###### Abra o AWS GLUE
+###### Abra no menu lateral o item CRAWLERS
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ###### Open the AWS GLUE
+###### Open CRAWLERS in lateral menu
 
 ![AWS Glue](./images/9a-AWSGlueCalling.jpg)
+![AWS Glue Crawlers](./images/10a-AWSGlueCrawlerCalling.jpg)
+
 
