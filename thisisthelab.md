@@ -135,11 +135,13 @@
 
 ###### ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") 
 ###### Faça a parametrização do *Data Source* com o bucket *bucket-for-csv-rawdata-2025-03*
-###### Clique no botão *ADD an S3 Data Source*. 
+###### Clique no botão *ADD an S3 data source*. 
 
 ###### ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") 
 ###### Parameterize the *Data Source* with the bucket *bucket-for-csv-rawdata-2025-03*
-###### Click on the *ADD an S3 Data Source* button. 
+###### Click on the *ADD an S3 data source* button. 
 
 ![AWS Glue Crawler Parametrization](./images/14a-AWSGlueCrawlerAddDataSource.jpg)
+![AWS S3 Bucket as a Data Source](./images/15a-AWSGlueCrawlerDataSource.jpg)
+
 
