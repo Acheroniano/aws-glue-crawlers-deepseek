@@ -30,11 +30,11 @@ Traning DATA in AWS
 
 ## Files
 
-### **customer.csv :**
+### **customer.csv :** [![Files badge](https://img.shields.io/badge/customer.csv-%23000000?logo=Files&logoColor=yellow&labelColor=blue)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/customer.csv)
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com os dados dos nomes - ID, Nome, País, Cidade, Telefone e Salário. Vamos fazer upload no S3.
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with data - ID, Names, Countries, Cities, Phones and Salaries. Upload it to a S3 Bucket.
 
-### **DeepSeek R1 - DeepThink.md**
+### **DeepSeek R1 - DeepThink.md :** [![Files badge](https://img.shields.io/badge/DeepSeek%20R1-%23000000?logo=markdown&logoColor=blue&labelColor=white)](https://github.com/Acheroniano/aws-glue-crawlers-deepseek/blob/main/DeepSeek%20R1%20-%20DeepThink.md) 
 ###### - ![Brazil](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/br.png "Brazil") **Descrição:** - Arquivo com o processo de "pensamento" da AI do DeepSeekR1
 ###### - ![United States](https://github.com/Acheroniano/flag-icon/blob/master/png/16/country-4x3/us.png "United States") **Descripiton:** - File with "thinking" proccess of the DeepSeekR1 AI
 
